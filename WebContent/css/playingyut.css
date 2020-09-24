@@ -1,0 +1,464 @@
+@charset "UTF-8";
+input {-webkit-appearance:none;}
+.back1 {
+            width: 800px;
+            height: 800px;
+            display: inline-block;
+            background-image: url("../image/윷판.png")
+        }
+
+        .po1 {
+            left: 620px;
+            top: 620px;
+            width: 180px;
+            height: 180px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po2 {
+            left: 685px;
+            top: 540px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po3 {
+            left: 685px;
+            top: 420px;
+            width: 62px;
+            height: 62px;X
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po4 {
+            left: 685px;
+            top: 310px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po5 {
+            left: 685px;
+            top: 200px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po6 {
+            left: 620px;
+            top: 0px;
+            width: 180px;
+            height: 180px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po7 {
+            left: 542px;
+            top: 55px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po8 {
+            left: 427px;
+            top: 55px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po9 {
+            left: 313px;
+            top: 55px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po10 {
+            left: 199px;
+            top: 55px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po11 {
+            left: 0px;
+            top: 0px;
+            width: 180px;
+            height: 180px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po12 {
+            left: 56px;
+            top: 196px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po13 {
+            left: 56px;
+            top: 311px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po14 {
+            left: 56px;
+            top: 424px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po15 {
+            left: 56px;
+            top: 537px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po16 {
+            left: 0px;
+            top: 620px;
+            width: 180px;
+            height: 180px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po17 {
+            left: 200px;
+            top: 680px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po18 {
+            left: 313px;
+            top: 680px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po19 {
+            left: 427px;
+            top: 680px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po20 {
+            left: 542px;
+            top: 680px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po21 {
+            left: 569px;
+            top: 169px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po22 {
+            left: 485px;
+            top: 255px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po23 {
+            left: 343px;
+            top: 340px;
+            width: 118px;
+            height: 118px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po24 {
+            left: 257px;
+            top: 481px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po25 {
+            left: 172px;
+            top: 567px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po26 {
+            left: 172px;
+            top: 170px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po27 {
+            left: 258px;
+            top: 253px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po28 {
+            left: 343px;
+            top: 340px;
+            width: 118px;
+            height: 118px;
+            display: inline-block;
+            z-index: 25;
+            position: absolute;
+        }
+
+        .po29 {
+            left: 485px;
+            top: 482px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po30 {
+            left: 570px;
+            top: 567px;
+            width: 62px;
+            height: 62px;
+            display: inline-block;
+            position: absolute;
+        }
+
+        .po31 {
+            left: 800px;
+            top: 570px;
+            width: 400px;
+            height: 224px;
+            display: inline-block;
+            position: absolute;
+            border-right: 3px solid #000000;
+            border-bottom: 3px solid #000000;
+            border-top: 3px solid #000000;
+            z-index: 100;
+        }
+
+        .back {
+            display: inline-block;
+            position: absolute;
+            width: 1200px;
+            height: 800px;
+            top: calc(50% -500px);
+            left: calc(50% -600px);
+        }
+
+        #background {
+            display: inline-block;
+            position: absolute;
+            width: 800px;
+            height: 800px;
+            background-image: url("../image/윷판.png");
+        }
+
+        .player1 {
+            display: inline-block;
+            vertical-align: top;
+            background-image: url("../image/플레이어.png");
+            background-size: 100% 100%;
+            cursor: pointer;
+            z-index: 100;
+            background-repeat: no-repeat;
+        }
+
+        .player2 {
+            display: inline-block;
+            vertical-align: top;
+            background-image: url("../image/플레이어2.png");
+            background-size: 100% 100%;
+            cursor: pointer;
+            z-index: 100;
+            background-repeat: no-repeat;
+        }
+        
+        .player1[size='1'], .player2[size='1'] {
+            height: 50px;
+            width: 50px;
+        }
+        
+        .player1[size='2'], .player2[size='2'] {
+            height: 75px;
+            width: 75px;
+        }
+        
+        .player1[size='3'], .player2[size='3'] {
+            height: 100px;
+            width: 100px;
+        }
+        
+        .player1[size='4'], .player2[size='4'] {
+            height: 125px;
+            width: 125px;
+        }
+
+        #waiting {
+         height: 394px;
+	    width: 400px;
+	    display: inline-block;
+	    position: absolute;
+	    background-color: brown;
+	    border: 3px solid black;
+	    left: 797px;
+	    top: 400px;
+        }
+
+        #btn {
+        display: inline-block;
+	    position: absolute;
+	    left: 798px;
+	    top: 347px;
+	    width: 205px;
+	    height: 56px;
+	    font-size: 20px;
+	    border: 3px solid black;
+	    background-color: white;
+        }
+
+        #txt {
+            display: inline-block;
+            position: absolute;
+            left: 1000px;
+            top: 347px;
+            width: 193px;
+            height: 48px;
+            font-size: 20px;
+            background-color: white;
+            border: 3px solid black;
+        }
+
+        #yut {
+            display: inline-block;
+            position: absolute;
+            width: 399px;
+            height: 344px;
+            left: 798px;
+            border: 3px solid black;
+            background-color: green;
+        }
+
+        #yut1,
+        #yut2,
+        #yut3,
+        #yut4 {
+        box-shadow: 3px 3px 8px 0px black;
+        margin-right:5px;
+        margin-left:4px;
+        display: inline-block;
+        width: 90px;
+        height: 340px;
+        left: 800px;
+        z-index: 100;
+        background-image: url("../image/yut.png");
+        background-repeat:no-repeat;
+        background-size: 100px 340px;
+        }
+        .start{
+		display: inline-block;
+		width: 1200px;
+		height: 800px;
+		background-size: 1200px 800px;
+		background-image: url("../image/윷놀이 배경.png");
+		position:absolute;
+		background-repeat: no-repeat;
+		} 
+		#information{
+		display: inline-block;
+		position: absolute;
+		left: 208px;
+		top: 8px;
+		width: 800px;
+		height: 800px;
+		background-color: #C8FFFF;
+		border-radius: 30px; 
+		font-size: 35px;
+		}
+		#backbnt{
+		display: inline-block;
+	    position: absolute;
+	    width: 50px;
+	    height: 50px;
+	    left: 743px;
+	    top: 5px;
+	    border-radius: 10px;
+		}
+		#startbnt{
+		display:inline-block;
+		position:absolute;
+		width: 200px;
+		height: 100px;
+		font-size : 30px;
+		font-style: italic;
+		left : 350px;
+		top:600px;
+		border-radius: 30%;
+		background-color: white;
+		}
+		#infor{
+		background-color: white;
+		display:inline-block;
+		position:absolute;
+		width: 200px;
+		height: 100px;
+		font-size : 30px;
+		font-style: italic;
+		left : 650px;
+		top:600px;
+		border-radius: 30%;
+		}
